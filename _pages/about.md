@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Postdoctoral Researcher at CNRS / Laboratoire de Geologie in Ecole Normale Superieure. </a>. 
+description: <a href="#">Postdoctoral Researcher at CNRS - Laboratoire de Geologie in Ecole Normale Superieure </a>. 
 
 profile:
   align: right
