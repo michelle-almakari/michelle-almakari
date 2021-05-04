@@ -8,9 +8,9 @@ profile:
   align: right
   image: Michelle.jpeg
   address: >
-    <p>Office 336 </p>
-    <p>24 Rue Lhomond</p>
-    <p>75005, Paris </p>
+    <p>Lab. de Géologie - ENS </p>
+    <p>24 Rue Lhomond, 75005 Paris (Office 336)</p>
+    <p>michelle.almakari@ens.fr</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
