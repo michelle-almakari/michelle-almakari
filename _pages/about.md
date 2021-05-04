@@ -6,8 +6,9 @@ description: <a href="#">Postdoctoral Researcher at CNRS - Laboratoire de Geolog
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Michelle.jpeg
   address: >
+    <p>Office 336 </p>
     <p>24 Rue Lhomond</p>
     <p>75005, Paris </p>
 
