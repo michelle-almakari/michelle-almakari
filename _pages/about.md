@@ -17,8 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher at CNRS, working at the Laboratoire de Geologie in Ecole Normale Superieure since January 2021. My current research project is to investigate the seismic cycle along complex fault networks in using 3D quasi-dynamic numerical modeling. I obtained a Bachelor of Engineering in Civil/Geotechnical Engineering from the Lebanese University in Beirut. Then I conducted a Research Master in Geophysics and Solid Earth at Universite Grenoble Alpes (UGA, Grenoble) in France and then I proceeded to obtain my PhD from MINES ParisTech at the Geosciences Center (Fontainebleau, France) under the supervision of Pierre Dublanchet and Hervé Chauris. During my PhD, I investigated the hydro-mechanical reactivation of pre-existing faults due to fluid injection (anthropogenic activities: hydraulic fracturing, geothermal projects, waste water disposal, etc...)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
