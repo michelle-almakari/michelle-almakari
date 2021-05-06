@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Teaching/
+permalink: /teaching/
 title: Teaching
 description: Classes taught with various colleagues at MINES ParisTech and IPGP
 nav: true
