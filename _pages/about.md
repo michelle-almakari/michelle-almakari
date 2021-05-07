@@ -26,3 +26,5 @@ Finally, I proceeded to obtain my PhD from MINES ParisTech at the [Geosciences C
 ###### **Research Interest:**
 Seismic Cycle -  Seismology - Geophysics - Numerical Modeling - Rock-mechanics - Induced Seismicity - Inverse Methods
 
+###### Here is my [**Curriculum Vitae**](./assets/pdf/Michelle-Almakari_March2021_CV.pdf)
+
