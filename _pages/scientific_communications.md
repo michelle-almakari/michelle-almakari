@@ -2,6 +2,7 @@
 layout: page
 permalink: /communications/
 title: Communications
+longtitle: Scientific Communications
 description: Invited Seminars, International Conferences Communications 
 nav: true
 ---

@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+longtitle: About
 permalink: /
 description: <a href="#">Postdoctoral Researcher at CNRS - Laboratoire de Geologie in ENS </a>. 
 
