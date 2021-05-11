@@ -1,78 +1,28 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: Non linear site transfer function
+longtitle: Modulation of weak motion site transfer functions by non-linear behavior 
+time: Second year master project
+description: in collaboration with Pierre-Yves Bard (ISTerre), Christelle Salameh (ISTerre), Cécile Cornou (ISTerre), Fernando Lopez-Caballero (Ecole Centrale de Paris), Julie Régnier (CEREMA) et Héloïse Cadet (ADRGT). 
+img: /assets/img/Ratio_Site_Response.png
 importance: 3
 category: past
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The non-linear behavior in soft to moderately stiff soils modifies the linear site response, generally by shifting the resonance frequencies towards lower values, and reducing the high-frequency motion in relation to shear modulus decrease and damping increase with increasing loading. The resulting “modulation” of the site response may be quantified by the nonlinear to linear site response ratio, RSRNL-L, comparing the Fourier transfer function for strong events and for weak events. As shown by Régnier et al., this ratio exhibits a "typical shape"; with a low frequency part above 1 and a high frequency part generally below 1, separated by a transition zone around a site-dependent frequency labelled fNL (characterized by RSRNL-L = 1). 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The present work intends to compare these observations with the results of extensive non-linear numerical simulation: Non-linear soil behavior results in significant site response modifications even for moderate PGA values of 100 cm/s2, in that case mainly for soft soils with low VS30 value. The resulting RSRNL-L functions exhibit a qualitatively similar shape compared to instrumental data. 
+fNL values exhibit a satisfactory correlation with site classifications based on either VS30 or f0: the lower VS30 or f0, the lower fNL. It is also found that for high-frequency or stiff sites, the ratio fNL/f0 is very close to 1, while it exhibits a large scatter for low frequency sites, with values in the range [1, 10], indicating the concentration of non- linearities in relatively shallow layers. The amount of low-frequency amplification (i.e., for f < fNL) increases with increasing non-linearity, i.e., with increasing PGA and/or strain, and the same for the high-frequency (i.e., f > fNL) reduction. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+However, from a quantitative viewpoint, the present numerical simulations seem to overestimate the non-linearity for deep sites with low fundamental frequency. The final aim to propose a model allowing to apply a frequency-dependent “NL modulation” to the measured or computed linear transfer functions, as a function of PGA level and site characteristics, including VS30 and f0, therefore requires further investigations on the actual behavior of such deep deposits.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fNL-f0.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Evolution of fNL/f0 as a function of f0 for numerical simulation results (left), and instrumental results (right). The color code corresponds to the surface pga
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+Corresponding publication: [Almakari at el, 2016](./../../assets/pdf/Almakari_2016.pdf)
