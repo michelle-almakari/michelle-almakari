@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hydraulic Diffusivity Enhancement
-longtitle: Fault hydraulic diffusivity enhancement during injection induced fault reactivation: application of pore pressure diffusion inversions to laboratory injection experiments
+longtitle: Fault hydraulic diffusivity enhancement during injection induced fault reactivation application of pore pressure diffusion inversions to laboratory injection experiments
 description: in collaboration with Francois Passelegue (EPFL, Lausanne) and Pierre Dublanchet, Herve Chauris and Alexandrine Gesret (MINES ParisTech) 
 img: /assets/img/Diffusivity.png
 importance: 3
