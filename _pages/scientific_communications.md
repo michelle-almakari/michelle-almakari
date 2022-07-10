@@ -9,6 +9,7 @@ nav: true
 _Last Updated May 2021_ 
 
 ### Invited Seminars
+5. Ecole Polytechnique Federale de Lausanne, October 2021
 4. Storengy, Bois Colombes, January 2020
 3. Géoazur, Nice Sophia Antipolis, France, November 2019
 2. Ecole et Observatoire des Sciences de la Terre (EOST), Strasbourg, France, November 2019
