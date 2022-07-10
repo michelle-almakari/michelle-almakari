@@ -24,9 +24,9 @@ Classes taught with various colleagues at MINES ParisTech and IPGP
 
 ## Mentoring
 ##### PhD Students 
-* __Jinhui Cheng__ : _March 2021- Present_
+* __Jinhui Cheng__ : _March 2021- Present_\
     Energy Budget of the seismic cycle in 3D complex fault network configurations (Main advisors: Harsha Bhat, ENS & Brice Lecampion, EPFL)
 
 ##### Undergraduate Students
-* __Valentin Marnat__: _Juillet - Aout 2022_
+* __Valentin Marnat__: _Juillet - Aout 2022_\
     Etude et modelisation des tsunamis en comparant l'approche classique avec une approche dynamique.
