@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Michelle  Almakari | blank</title>
+<title>Michelle  Almakari | Non-linear wave propagation</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -31,7 +31,7 @@
 
 <link rel="stylesheet" href="/michelle-almakari/assets/css/main.css">
 
-<link rel="canonical" href="/michelle-almakari/blog/">
+<link rel="canonical" href="/michelle-almakari/projects/6_project/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -96,7 +96,7 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/michelle-almakari/blog/">
               blog
               
@@ -104,8 +104,6 @@
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -171,18 +169,27 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Updates</h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Saturation of surface PGA with non-linear wave propagation</h1>
+    <h1 class="post-description font-weight-bold">First year Master project</h1>
+    <p class="post-description">in collaboration with Pierre-Yves Bard (ISTerre), Bertrand Guiller (ISTerre) and Christelle Salameh (ISTerre).</p>
+  </header>
 
+  <article>
+    <p>Under seismic loading, when the shear strain increases, the soil profile goes farther and farther into the non-linear domain especially in the weakest layer, the corresponding shear stress is getting nearer and nearer to its asymptotic value τmax, and cannot transmit accelerations higher than (approximately) τmax / ρ. z, where ρ is the unit mass and z the depth of the considered layer. As a consequence, at each site, the peak surface acceleration cannot exceed the threshold value corresponding to its weakest layer where the higher strains are developed. <br />
+Here we conducted a numerical modeling study of non-linear wave propagation for 820 multilayered soil profiles (593 Japanese KiK-net sites, 205 sites from the US and 22 European sites from theNERIES project) and 60 synthetic input accelerograms (realistic waveforms presenting both frequency and non-stationary characteristics representative of real accelerograms, corresponding to scenario earthquakes with a magnitude range from 3 to 7, recorded at distances from 2 to 100 km). <br />
+This “saturation” value of pga appears very clearly with the variation of surface pga with peak strain. For a given site, low input pga values generate small peak strain within the soil profile, which remains well below the corresponding “reference strain” γref = τmax / Gmax (where Gmax is the low strain shear modulus at the depth of the peak strain). When the input pga increases, the peak strain γmax keeps increasing, and when it gets comparable to or higher than γref, the soil goes far into the non- linear domain, and the transmitted acceleration gets close to its saturation value. This explains the asymptotic shape of curves, which also indicates that the saturation pga is decreasing with decreasing soil stiffness : the lowest saturation pga (around 2 m/s2) correspond to red points, i.e. those with VS30 &lt; 180 m/s, while the largest (around 7 m/s2) correspond to magenta points i.e. with VS30 &gt; 760 m/s.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/michelle-almakari/assets/img/Surface_PGA.png" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+Saturation of the surface PGA for different VS30 site classes. One point in this graph represents the surface pga as a function of peak "relative strain" (ratio γmax/γref where γmax is the peak strain value along the whole profile and γref is the reference strain at the corresponding depth). 
+</div>
 
-  
-
+  </article>
 
 </div>
 
