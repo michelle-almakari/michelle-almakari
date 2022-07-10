@@ -17,7 +17,7 @@ _Last Updated July 2022_
 {: reversed="reversed"}
 
 ### Oral Presentations
-2. __M. Almakari__, F. Passelegue, P. Dublanchet, A. Gesret. Induced Fault Reactivation and Hydraulic Diffusivity Enhancement: Insights from Pressure Diffusion Inversion in Laboratory Injection Tests, April 2020, Vienna_.
+2. __M. Almakari__, F. Passelegue, P. Dublanchet, A. Gesret. Induced Fault Reactivation and Hydraulic Diffusivity Enhancement: Insights from Pressure Diffusion Inversion in Laboratory Injection Test. _EGU General Assembly April 2020, Vienna_.
 1. __M. Almakari__, P. Dublanchet, H. Chauris. Injection-induced seismicity controlled by the pore pressure rate. _EGU General Assembly, April 2018, Vienna_. 
 {: reversed="reversed"}
 
