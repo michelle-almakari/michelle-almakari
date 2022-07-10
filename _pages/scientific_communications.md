@@ -17,12 +17,13 @@ _Last Updated July 2022_
 {: reversed="reversed"}
 
 ### Oral Presentations
-2. __M. Almakari__, F. Passelegue, P. Dublanchet, A. Gesret. Induced Fault Reactivation and Hydraulic Diffusivity Enhancement: Insights from Pressure Diffusion Inversion in Laboratory Injection Test. _EGU General Assembly April 2020, Vienna_.
+2. __M. Almakari__, H. Chauris, F. Passelegue, P. Dublanchet, A. Gesret. Induced Fault Reactivation and Hydraulic Diffusivity Enhancement: Insights from Pressure Diffusion Inversion in Laboratory Injection Test. _EGU General Assembly April 2020, Vienna_.
 1. __M. Almakari__, P. Dublanchet, H. Chauris. Injection-induced seismicity controlled by the pore pressure rate. _EGU General Assembly, April 2018, Vienna_. 
 {: reversed="reversed"}
 
 
 ### Poster Presentations
+6. __M. Almakari__, H. Chauris, F. Passelegue, P. Dublanchet, A. Gesret. Hydraulic Diffusivity Enhancement during Injection-Induced Fault Reactivation. _AGU Fall Meeting, December 2021, New Orleans, hybrid presentation_.
 5. __M. Almakari__, P. Dublanchet, H. Chauris. Induced Fault Reactivation: Effect of the Fluid Injection Parameters. _Workshop: Forecasting Unstable Frictional Slip and Failure of Geomaterials, November 2019, Ecole Polytechnique, Saclay, France_.
 4. __M. Almakari__, F. Passelègue, P. Dublanchet. Shear induced fluid flow and permeability enhancement during fluid injection lab experiments. _Schatzalp 3rd workshop on Induced Seismicity, March 2019, Davos, Switzerland (Fellowship Grant)_.
 3. __M. Almakari__, P. Dublanchet, H. Chauris. Dependence of Injection-Induced seismicity on the Injection Scenario. _AGU Fall Meeting, December 2019, Washington DC_.
