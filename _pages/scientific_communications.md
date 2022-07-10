@@ -6,7 +6,7 @@ longtitle: Scientific Communications
 description: Invited Seminars, International Conferences Communications 
 nav: true
 ---
-_Last Updated May 2021_ 
+_Last Updated July 2022_ 
 
 ### Invited Seminars
 5. Ecole Polytechnique Federale de Lausanne, October 2021
