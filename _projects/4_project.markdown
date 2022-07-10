@@ -27,3 +27,5 @@ Injection of fluids into underground formations reactivates preexisting faults a
 <div class="caption">
     Seismicity rate increase Smax∕S0 (ratio of maximum seismicity rate over seismicity rate before injection) as a function of the injection pore pressure rate 𝛽. Continuous lines represent the results of the numerical model of the heterogeneous fault; dashed lines represent the seismicity rate increase predicted by analytical approximation based on Dietrich's 1994 model 
    </div>
+
+Corresponding publication: [Almakari at el, 2019](./../../assets/pdf/ALMAKARI_JGR_2019.pdf)

@@ -1,79 +1,22 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Hydraulic Diffusivity Enhancement
+longtitle: Fault’s hydraulic diffusivity enhancement during injection induced fault reactivation: application of pore pressure diffusion inversions to laboratory injection experiments
+description: in collaboration with Francois Passelegue (EPFL, Lausanne) and Pierre Dublanchet, Herve Chauris and Alexandrine Gesret (MINES ParisTech) 
+img: /assets/img/Diffusivity.png
 importance: 3
 category: past
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In situ observations of fluid induced fault slip reactivation, as well as the analysis of induced seismicity have demonstrated the complexity of fluid–fault interactions under geological con- ditions. If fluid flow commonly reactivates faults in the form of aseismic slip or earthquakes, the resulting shear deformation causes strong modifications of the hydraulic properties. In this context, the relationship between slip front and fluid front on deep faults remains not fully understood. In this study, we investigate shear induced fluid flow and hydraulic diffu- sivity enhancement during fracture shearing in the laboratory. We use a series of injection reactivation tests, conducted under triaxial conditions, at different confining pressures (30, 60 and 95 MPa). The evolution of the fluid pressure along the saw-cut Andesite rock sample was monitored by two pressure sensors, at two opposite locations of the experimental fault. We estimate the history of the effective hydraulic diffusivity (and its associated uncertainties) governing the experimental fault, using the pressure history at two points on the fault. For this, we develop a deterministic and a probabilistic inversion procedure, which is able to reproduce the experimental data for a wide time range of the different experiments. In this study, the hydraulic diffusivity increases by one order of magnitude through the injection experiment. Hydraulic diffusivity changes are mainly governed by the reduction of the effective normal stress acting on the fault plane, with a second-order effect of the shear slip.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Diffusivity.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Squares of the ratio of the hydraulic diffusivity to the initial diffusivity and the logarithm of the ratio of the mean effective stress to the initial effective stress. Different colours refer to the different confining pressure values. Diffusivity values are issued from the deterministic method, and the error-bars represented here are the standard deviations estimated using the MCMC method.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Corresponding publication: [Almakari at el, 2020](./../../assets/pdf/Almakari_GJI_2020.pdf)
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```

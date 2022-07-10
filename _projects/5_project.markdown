@@ -22,7 +22,7 @@ However, from a quantitative viewpoint, the present numerical simulations seem t
     </div>
 </div>
 <div class="caption">
-    Evolution of fNL/f0 as a function of f0 for numerical simulation results (left), and instrumental results (right). The color code corresponds to the surface pga
+Squares of the ratio of the hydraulic diffusivity to the initial diffusivity and the logarithm of the ratio of the mean effective stress to the initial effective stress. 
 </div>
 
 Corresponding publication: [Almakari at el, 2016](./../../assets/pdf/Almakari_2016.pdf)
